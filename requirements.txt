@@ -1,0 +1,4 @@
+numpy
+SpeechRecognition
+pyttsx3
+transformers
