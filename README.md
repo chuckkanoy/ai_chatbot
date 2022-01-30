@@ -1,4 +1,4 @@
-# AI Chatbot
+# 🤖 AI Chatbot 🤖
 
 A bot that takes input through the microphone and respond using speech. The transformers library is used for all NLP required for unhandled commands.
 
